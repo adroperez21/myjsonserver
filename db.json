@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "userId": 0,
+      "title": "First task",
+      "desc": "first generated task for test this",
+      "completed": false
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
